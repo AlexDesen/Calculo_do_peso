@@ -16,5 +16,5 @@ if __name__ == "__main__":
             altura = input('Digite sus alatura: ')
             a = float(altura)
             resultado = peso_homem(a)
-            print (f'O peso é de um {opcao} e ele esta pesando {resultado:.2f} quilos.')
+            print (f'O peso calculado é de um {opcao} e ele esta pesando {resultado:.2f} quilos.')
     print('VOCÊ FINALIZOU O PROGRAMA')    
